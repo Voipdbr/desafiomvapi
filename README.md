@@ -1,5 +1,3 @@
-<div>a</div>
-
 Este projeto foi feito com a inserção de uma API livre para desenvolvedores chamada de Marvel API.
 
 Ela é otima para testar seus conhecimentos com inserção e relacionamento entre biblioteca,
