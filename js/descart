@@ -1,0 +1,25 @@
+
+
+    /*function add() {
+        r1++;
+        mostrar(r1);
+    }
+
+    function mostrar(valor) {
+        document.getElementById("resultado").innerHTML = valor;
+    }*/
+    /*if (resultado < 10) {
+            resultado2++;
+            resultado3 = resultado + resultado2;
+            return resultado3;
+        } else {
+            return resultado3;
+        }*/
+
+    /*function acrescentar(resultado3) {
+        resultado2++;
+        resultado3 = resultado + resultado2;
+        return resultado3;
+    }*/
+
+    /*+ `${resultado2}`*/

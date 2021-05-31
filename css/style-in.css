@@ -1,0 +1,35 @@
+main {
+    display: flex;
+    width: 100%;
+}
+
+img {
+    width: 300px;
+    color: black;
+    border-bottom-style: solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    transition: 1s;
+}
+
+.pHeroes {
+    background-color: brown;
+    width: 300px;
+    margin: 20px;
+    color: white;
+    border-style: solid;
+    transition: 1s;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.pHeroes:hover {
+    background-color: brown;
+    width: 300px;
+    transition: 1s;
+    margin: 40px;
+    color: white;
+    border-style: solid;
+    border-radius: 16px;
+    text-align: center;
+}

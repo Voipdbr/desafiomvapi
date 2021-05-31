@@ -1,0 +1,295 @@
+nav {
+    display: flex;
+    margin-left: 0%;
+}
+
+.ul-1 {
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    list-style: none;
+}
+
+.container4 {
+    display: flex;
+}
+
+.container4.close {
+    display: none;
+}
+
+@keyframes fade {
+    from {
+        font-weight: bold;
+        font-size: 25px;
+        padding: 0px;
+        border-radius: 90px;
+        background: radial-gradient(rgb(94, 248, 120), rgb(94, 248, 120), transparent, transparent);
+        color: rgb(0, 180, 45);
+    }
+    to {
+        font-weight: 900;
+        padding: 25px;
+        border-radius: 20px;
+        background: radial-gradient(rgb(94, 248, 120), rgb(94, 248, 120), transparent, rgb(94, 248, 120));
+        color: rgb(1, 97, 17);
+    }
+}
+
+@media only screen and (max-width: 100000px) {
+    header {
+        display: flex;
+        background-color: rgb(185, 25, 25);
+        width: 100%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .ul-1 li {
+        align-items: center;
+        margin-right: 50px;
+        background-color: transparent;
+        padding: 0px;
+        border-radius: 10px;
+        transition: 1s;
+    }
+    .ul-1 li:hover {
+        align-items: center;
+        margin-right: 50px;
+        background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 10px;
+        transition: 1s;
+    }
+    .ul-1 li a {
+        font-weight: bold;
+        font-size: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-style: normal;
+        color: white;
+        transition: 1s;
+    }
+    .ul-1 li a:hover {
+        color: rgb(0, 194, 48);
+        padding: 25px;
+        animation: fade 2s infinite alternate;
+        animation-delay: 0.1s;
+    }
+    .txt {
+        display: none;
+    }
+    .fm-mas {
+        display: none;
+        margin-top: -1000px;
+        transition: 0s;
+    }
+    .fm-mas.open {
+        display: flex;
+        margin-top: 0px;
+        transition: 1s;
+    }
+    .form {
+        display: block;
+        float: left;
+        margin-top: 10px;
+        margin-left: 90%;
+        transition: 1s;
+        margin-right: 20px;
+    }
+    .form-c {
+        display: flex;
+        float: left;
+        cursor: auto;
+        border: 2px solid rgb(44, 0, 0);
+        padding: 10px;
+        width: 450px;
+        margin: 0;
+    }
+    .btn {
+        display: flex;
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        border: 2px solid red;
+        border-radius: 20px;
+        animation: faz 1s infinite alternate;
+    }
+}
+
+@media only screen and (max-width: 1800px) {
+    .form {
+        display: block;
+        float: left;
+        margin-left: 20%;
+        transition: 1s;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    .form {
+        display: block;
+        float: left;
+        margin-top: 100px;
+        margin-left: -600px;
+        margin-right: 20px;
+    }
+    .btn {
+        display: flex;
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        padding-top: 10px;
+        margin-top: 90px;
+        border: 2px solid red;
+        border-radius: 500px;
+        animation: faz 1s infinite alternate;
+    }
+    @keyframes fade {
+        from {
+            font-weight: bold;
+            font-size: 25px;
+            padding: 0px;
+            border-radius: 90px;
+            color: rgb(0, 180, 45);
+        }
+        to {
+            font-weight: 900;
+            padding: 5px;
+            border-radius: 20px;
+            color: rgb(1, 97, 17);
+        }
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    .sea {
+        display: block;
+    }
+    .sea.close {
+        display: none;
+    }
+    .btn {
+        display: block;
+    }
+    .btn.close {
+        display: none;
+    }
+    .txt {
+        display: none;
+    }
+    .txt.close {
+        display: flex;
+        margin-top: 100px;
+        margin-left: -500px;
+        color: white;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    header {
+        display: flex;
+        background-color: rgb(185, 25, 25);
+        width: 111%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .ul-1 li {
+        align-items: center;
+        margin-right: 50px;
+        background-color: transparent;
+        padding: 0px;
+        border-radius: 10px;
+        transition: 1s;
+    }
+    .ul-1 li:hover {
+        align-items: center;
+        margin-right: 50px;
+        background-color: white;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+        transition: 1s;
+    }
+    .ul-1 li a {
+        font-weight: bold;
+        font-size: 25px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-style: normal;
+        color: white;
+        transition: 1s;
+    }
+    .ul-1 li a:hover {
+        color: rgb(0, 194, 48);
+        padding: 0px;
+        animation: fade 2s infinite alternate;
+        animation-delay: 0.1s;
+    }
+    @keyframes fade {
+        from {}
+        to {}
+    }
+}
+
+@keyframes faz {
+    from {}
+    to {
+        display: flex;
+        background-color: rgb(70, 70, 70);
+        padding: 20px;
+        border: 2px solid rgb(128, 0, 0);
+        border-radius: 20px;
+        color: white;
+        transition: 1s;
+    }
+}
+
+.btn:hover {
+    display: flex;
+    background-color: rgb(70, 70, 70);
+    padding: 20px;
+    border: 2px solid rgb(128, 0, 0);
+    border-radius: 20px;
+    color: white;
+    transition: 1s;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container.close {
+    display: none;
+}
+
+.container2 {
+    display: none;
+}
+
+.container2.op {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container2.cl {
+    display: none;
+}
+
+.container3 {
+    display: none;
+}
+
+.container3.opd {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container3.clo {
+    display: none;
+}
