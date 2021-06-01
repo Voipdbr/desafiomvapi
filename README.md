@@ -1,4 +1,4 @@
-<img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/voipd.gif" alt="this slowpoke moves"  width="800" alt="404 image"/>
+<img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/voip.gif" alt="Voipdbr"  width="800" alt="404 image"/>
 
 Este projeto foi feito com a inserção de uma API livre para desenvolvedores chamada de Marvel API.
 
@@ -50,4 +50,4 @@ Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção 
 
 e claro o site foi desenvolvido como um SPA (Single Page Application).
 
-<img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/data.gif" alt="this slowpoke moves"  width="800" alt="404 image"/>
+<img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/data.gif" alt="Site"  width="800" alt="404 image"/>
