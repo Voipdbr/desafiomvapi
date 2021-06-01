@@ -37,8 +37,8 @@ PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, 
 <p></p>
 <p></p>
 <p></p>
-Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
-são bastante flexiveis em meus projetos pessoais.
+<h3>Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
+são bastante flexiveis em meus projetos pessoais.</h3>
 <p></p>
 O site criado com a api, é interativo e interessante, pois o padrão do site foi pensado em não ser 
 algo estático.
