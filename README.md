@@ -47,7 +47,7 @@ algo estático.<p></p>
 Os botões são animados, as caixas dos personagens também, e a troca de informações é facil de entender.
 <p></p>
 No projeto eu encontrei vários problemas com relação ao código na parte do buscador, eu não consigo
-inserir a url com as informações do name solicitado, o código não está conseguindo fazer solicitação.
+inserir a url com as informações do name herói solicitado, o código não está conseguindo fazer solicitação.
 <p></p>
 Os botões (Buscar, Personagens/Comics e Criadores), estão funcionando perfeitamente, o código
 dos botões (Buscar, Personagens/Comics e Criadores), faz linkagem com o script cp.js,
@@ -60,7 +60,7 @@ porque o botão consegue gerar +50 personagens diferentes. Mas sempre que você 
 ele adiciona os mesmos cinquenta personagens. Não consegui fazer esse problemas sumir, mas a maior parte do botão foi desenvolvido.
 <p></p>
 Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção de código com frameworks e API.
-<p></p><p></p>
+<p></p>
 e claro o site foi desenvolvido como um SPA (Single Page Application).
 <p></p>
 
