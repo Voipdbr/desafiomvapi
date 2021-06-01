@@ -47,7 +47,7 @@ algo estático.<p></p>
 Os botões são animados, as caixas dos personagens também, e a troca de informações é facil de entender.
 <p></p>
 No projeto eu encontrei vários problemas com relação ao código na parte do buscador, eu não consigo
-inserir a url com as informações do name solicitante, o código não está conseguindo fazer solicitação.
+inserir a url com as informações do name solicitado, o código não está conseguindo fazer solicitação.
 <p></p>
 Os botões (Buscar, Personagens/Comics e Criadores), estão funcionando perfeitamente, o código
 dos botões (Buscar, Personagens/Comics e Criadores), faz linkagem com o script cp.js,
