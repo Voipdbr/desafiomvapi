@@ -29,7 +29,7 @@ tecnologias.
 
 Eu optei por utilizar 4 linguagens: HTML5, CSS, JAVASCRIPT, JSON.
 
-●  Porque não utilizei os demais?
+<h2>●  Porque não utilizei os demais?</h2>
 <p></p>
 R: Eu na data 05/2021, não tinha conhecimento o suficiente para produzir/codar nestas frameworks e linguagens.
 <p></p>
