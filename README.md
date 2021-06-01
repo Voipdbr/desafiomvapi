@@ -9,13 +9,21 @@ Por exemplo esse projeto foi um desafio que participei, nele você podia ter usa
 tecnologias.
 
 ● HTML5 ✔
+<p></p>
 ● CSS ✔
+<p></p>
 ● Javascript ✔
+<p></p>
 ● ReactJs
+<p></p>
 ● VueJs
+<p></p>
 ● AngularJs
+<p></p>
 ● PHP
+<p></p>
 ● NodeJs
+<p></p>
 ● Python
 
 Eu optei por utilizar 4 linguagens: HTML5, CSS, JAVASCRIPT, JSON.
