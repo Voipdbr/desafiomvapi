@@ -30,8 +30,9 @@ tecnologias.
 Eu optei por utilizar 4 linguagens: HTML5, CSS, JAVASCRIPT, JSON.
 
 ●  Porque não utilizei os demais?
+<p></p>
 R: Eu na data 05/2021, não tinha conhecimento o suficiente para produzir/codar nestas frameworks e linguagens.
-
+<p></p>
 PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, mas entendo.
 
 Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
@@ -57,8 +58,6 @@ ele adiciona os mesmos cinquenta personagens. Não consegui fazer esse problemas
 Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção de código com frameworks e API.
 
 e claro o site foi desenvolvido como um SPA (Single Page Application).
-
-
-
+<p></p>
 
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/data.gif" alt="Site"  width="800" alt="404 image"/>
