@@ -47,13 +47,12 @@ inserir a url com as informações do name solicitante, o código não está con
 Os botões (Buscar, Personagens/Comics e Criadores), estão funcionando perfeitamente, o código
 dos botões (Buscar, Personagens/Comics e Criadores), faz linkagem com o script cp.js,
 que solicita ao styles.css, a inserção de novas listagens de classe, fazendo com que as informações presentes
-no css, já estão preparadas para ser aplicada a um classe que existe ou ira ser gerada, faça com que o 
+no css, que já estão preparadas para ser aplicada a um classe que existe ou ira ser gerada, faça com que o 
 display fique none, assim as informações de uma div é cortada, e a outra se sobrepõe.
 
 O botão (Ver mais), ele está funcionando, consegue aplicar +50 personagens, de primeira você nem percebe,
-porque o botão ele consegue gerar +50 personagens diferente, Mas sempre que você clica no botão
-ele adiciona os mesmos cinquenta personagens, Não consegui fazer esse problemas sumir,
- mas a maior parte do botão foi desenvolvido.
+porque o botão consegue gerar +50 personagens diferentes. Mas sempre que você clica no botão
+ele adiciona os mesmos cinquenta personagens. Não consegui fazer esse problemas sumir, mas a maior parte do botão foi desenvolvido.
 
 Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção de código com frameworks e API.
 
