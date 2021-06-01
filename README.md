@@ -50,4 +50,7 @@ Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção 
 
 e claro o site foi desenvolvido como um SPA (Single Page Application).
 
+
+
+
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/data.gif" alt="Site"  width="800" alt="404 image"/>
