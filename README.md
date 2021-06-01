@@ -1,3 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <RewriteRule ^([^\.]+)$ $1.html [NC,L]/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Challenge</title>
+    <link rel="stylesheet" type="text/css" href="/css/style-f.css">
+    <link rel="stylesheet" type="text/css" href="/css/style-in.css">
+    <link rel="stylesheet" type="text/css" href="/css/style-h.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <script src="js/c1.js"></script>
+    <script src="js/c2.js"></script>
+    <script src="js/cp.js"></script>
+    <script src="js/se.js"></script>
+    <header>
+        <div class="head">
+            <ul class="ul-1">
+                <li onclick="search()"><a>Buscar</a></li>
+                <li onclick="comics()"><a>Personagens / Comics</a></li>
+                <li><a onclick="creators()">Criadores</a></li>
+            </ul>
+        </div>
+        <nav>
+            <form id="conF" class="fm-mas">
+                <div class="buscar form filter-container">
+                    <input required type="text" id="buscar" class="sea form-c ch-sea-b" placeholder="Pesquise Seu Herói, EX: Hulk, Homem-Aranha, Homem-de-Ferro, etc...">
+                </div>
+                <input type="submit" id="buscar" value="Encontre!" Class="btn btn-se mb-2">
+            </form>
+            <div>
+                <a class="txt">Ixi a tela do seu dispositivo não tem suporte ao buscador.</a>
+            </div>
+        </nav>
+    </header>
+    <main class="main-1">
+        <div class="p-1">
+            <div id="person" class="container">
+                <ul data-js="marvel" class="marvel"></ul>
+            </div>
+            <div id="person4" class="container container4">
+                <ul data-js="marvel" class="marvel"></ul>
+            </div>
+            <div id="person2" class="container2">
+                <ul data-js="marvel" class="marvel"></ul>
+            </div>
+            <div id="person3" class="container3">
+                <ul data-js="marvel" class="marvel"></ul>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="foot">
+            <ul class="ft-1">
+                <li><a class="a1">Veja Mais / Personagens</a></li>
+                <button class="li-1" id="liLoad" type="button" onclick="clicar()"><a class="a2">↓</a></button>
+            </ul>
+        </div>
+    </footer>
+</body>
+
+</html>
+
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/voip.gif" alt="Voipdbr"  width="400" alt="404 image"/>
 
 Este projeto foi feito com a inserção de uma API livre para desenvolvedores chamada de Marvel API.
