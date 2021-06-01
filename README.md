@@ -43,7 +43,7 @@ PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, 
 são bastante flexiveis em meus projetos pessoais.</h3>
 <p></p>
 O site criado com a api, é interativo e interessante, pois o padrão do site foi pensado em não ser 
-algo estático.
+algo estático.<p></p>
 Os botões são animados, as caixas dos personagens também, e a troca de informações é facil de entender.
 <p></p>
 No projeto eu encontrei vários problemas com relação ao código na parte do buscador, eu não consigo
