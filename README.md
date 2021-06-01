@@ -34,7 +34,9 @@ Eu optei por utilizar 4 linguagens: HTML5, CSS, JAVASCRIPT, JSON.
 R: Eu na data 05/2021, não tinha conhecimento o suficiente para produzir/codar nestas frameworks e linguagens.
 <p></p>
 PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, mas entendo.
-
+<p></p>
+<p></p>
+<p></p>
 Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
 são bastante flexiveis em meus projetos pessoais.
 
