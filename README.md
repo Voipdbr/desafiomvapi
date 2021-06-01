@@ -7,7 +7,7 @@ oferecidas por uma organização.
 
 Por exemplo esse projeto foi um desafio que participei, nele você podia ter usado algumas dessas
 tecnologias.
-
+<p></p>
 ● HTML5 ✔
 <p></p>
 ● CSS ✔
@@ -25,6 +25,7 @@ tecnologias.
 ● NodeJs
 <p></p>
 ● Python
+<p></p>
 
 Eu optei por utilizar 4 linguagens: HTML5, CSS, JAVASCRIPT, JSON.
 
