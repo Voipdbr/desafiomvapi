@@ -39,11 +39,11 @@ PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, 
 <p></p>
 Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
 são bastante flexiveis em meus projetos pessoais.
-
+<p></p>
 O site criado com a api, é interativo e interessante, pois o padrão do site foi pensado em não ser 
 algo estático.
 Os botões são animados, as caixas dos personagens também, e a troca de informações é facil de entender.
-
+<p></p>
 No projeto eu encontrei vários problemas com relação ao código na parte do buscador, eu não consigo
 inserir a url com as informações do name solicitante, o código não está conseguindo fazer solicitação.
 
