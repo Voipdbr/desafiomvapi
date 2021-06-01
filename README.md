@@ -38,9 +38,9 @@ R: Eu na data 05/2021, não tinha conhecimento o suficiente para produzir/codar 
 PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, mas entendo.
 <p></p>
 <p></p>
-<p></p>
-<h3>Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
-são bastante flexiveis em meus projetos pessoais.</h3>
+<h3></h3>
+Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
+são bastante flexiveis em meus projetos pessoais.
 <p></p>
 O site criado com a api, é interativo e interessante, pois o padrão do site foi pensado em não ser 
 algo estático.<p></p>
