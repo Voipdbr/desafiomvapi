@@ -17,10 +17,10 @@
 </head>
 
 <body>
-    <script src="js/c1.js"></script>
-    <script src="js/c2.js"></script>
-    <script src="js/cp.js"></script>
-    <script src="js/se.js"></script>
+    <script src="https://github.com/Voipdbr/desafiomvapi/tree/main/js/c1.js"></script>
+    <script src="https://github.com/Voipdbr/desafiomvapi/tree/main/js/c2.js"></script>
+    <script src="https://github.com/Voipdbr/desafiomvapi/tree/main/js/cp.js"></script>
+    <script src="https://github.com/Voipdbr/desafiomvapi/tree/main/js/se.js"></script>
     <header>
         <div class="head">
             <ul class="ul-1">
