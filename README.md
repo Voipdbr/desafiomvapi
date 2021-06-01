@@ -1,4 +1,5 @@
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/voip.gif" alt="Voipdbr"  width="400" alt="404 image"/>
+<h2></h2>
 
 <h1>Projeto Marvel API</h1>
 
@@ -62,6 +63,6 @@ ele adiciona os mesmos cinquenta personagens. Não consegui fazer esse problemas
 Foi um projeto simples que fiz, mas que me ajudou a entender sobre a produção de código com frameworks e API.
 <p></p>
 e claro o site foi desenvolvido como um SPA (Single Page Application).
-<p></p>
+<h2></h2>
 
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/data.gif" alt="Site"  width="800" alt="404 image"/>
