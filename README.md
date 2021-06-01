@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Challenge</title>
-    <link rel="stylesheet" type="text/css" href="/css/style-f.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-in.css">
-    <link rel="stylesheet" type="text/css" href="/css/style-h.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/Voipdbr/desafiomvapi/tree/main/css/style-f.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/Voipdbr/desafiomvapi/tree/main/css/style-in.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/Voipdbr/desafiomvapi/tree/main/css/style-h.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/Voipdbr/desafiomvapi/tree/main/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
