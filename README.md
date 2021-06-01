@@ -1,6 +1,6 @@
 <img src="https://github.com/Voipdbr/desafiomvapi/blob/main/imggifdesc/voip.gif" alt="Voipdbr"  width="400" alt="404 image"/>
 
-<h1 style="color: Red">Projeto Marvel API</h1>
+<h1>Projeto Marvel API</h1>
 
 Este projeto foi feito com a inserção de uma API livre para desenvolvedores chamada de Marvel API.
 
