@@ -38,7 +38,7 @@ R: Eu na data 05/2021, não tinha conhecimento o suficiente para produzir/codar 
 PHP e Python que na data de hoje, são linguagens que não tenho muito dominio, mas entendo.
 <p></p>
 <p></p>
-<h3></h3>
+<h2></h2>
 Tirando esses conhecimentos que estão em null, as 4 linguagens utilizadas,
 são bastante flexiveis em meus projetos pessoais.
 <p></p>
